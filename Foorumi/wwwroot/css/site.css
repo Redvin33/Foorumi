@@ -1,0 +1,12 @@
+﻿body {
+   
+    color: blue;
+}
+
+#content {
+    margin-top: 100px;
+}
+
+msg {
+    border: 1px solid black;
+}
